@@ -12,6 +12,7 @@ In 2018, things seemed to be settling down back to a more 'stable' market price.
 ![image](https://user-images.githubusercontent.com/105184244/176034373-16224dba-2357-44fb-b651-20c52ac3b9ba.png)
 ---
 RUNTIMES FOR REFACTORED CODE:
+
 ![2017 _RefactorTime](https://user-images.githubusercontent.com/105184244/176034613-93321370-adbf-4097-89fb-30c78cab5f2f.PNG)
 
 ![2018_RefactorTime](https://user-images.githubusercontent.com/105184244/176034641-8378f584-eeb1-4b8c-b237-fb32abe0986b.PNG)
