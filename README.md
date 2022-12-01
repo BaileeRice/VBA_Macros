@@ -1,4 +1,4 @@
-# VBA_Challenge
+# VBA_Macros
 ## OVERVIEW OF PROJECT:
 
 Module 2's assignment is all about making the macro we created for Steve run faster, as well as making it a easier to read for potential edits made by us or another coder in the future
